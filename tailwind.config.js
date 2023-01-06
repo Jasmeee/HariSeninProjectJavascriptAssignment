@@ -8,6 +8,9 @@ module.exports = {
         alestext: "#6E7E2B",
         alesph: "#7D794F",
       },
+      fontFamily: {
+        'poppins': ['Poppins', 'sans-serif']
+    },
     },
   },
   plugins: [],
